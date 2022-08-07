@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
 	  
-	  <StartupObject>BasicTest1.SellingPrice</StartupObject>
+	  <StartupObject>BasicTest1.Test_OOps.NationalGame</StartupObject>
 	  
   </PropertyGroup>
 

@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace BasicTest1.Loop3
 {                                        //6
-    class pattern
+/*1                                        
+22
+333
+4444
+55555
+*/    class pattern
     {
         static void Main(string[] args)
         {
@@ -22,7 +27,12 @@ namespace BasicTest1.Loop3
             Console.WriteLine("\n ----------------------------------");
 
             //4.1
-
+/*1
+21
+321
+4321
+54321
+*/
             for (int i = 1; i <= 5; i++)
             {
 
@@ -37,7 +47,13 @@ namespace BasicTest1.Loop3
             Console.WriteLine("\n ----------------------------------");
 
             //4.2
-
+           
+         /*  1
+            10
+           101
+          1010
+         10101
+*/
 
             for (int i = 1; i <= 5; i++)
             {
